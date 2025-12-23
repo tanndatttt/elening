@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
 	float a, b, c, n;
+	float a1,b1,c1;
 	cout << "nhap 3 so a,b,c: ";
 	cin >> a >> b >> c;
 	cout << "nhap n: ";
